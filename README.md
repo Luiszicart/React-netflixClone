@@ -2,7 +2,7 @@
 * [General information] (#general-information)
 * [Tech Stack] (#stack)
 * [Setup] (#setup)
-
+<a name="general-information"/>
 ## General information
 This project is created with the simple objective of consolidating certain technologies and polishing my ability to write clean, reusable and efficient code. Anyone who wants to add features or suggest changes is free to do so, please create a separate branch from develop and generate a PR.
 
