@@ -20,6 +20,6 @@ To run this project and see all functionalities, install it locally using npm:
 
 ```
 $ cd ../theNameUWant
-$ npm install
-$ npm start
+$ yarn install
+$ yarn start
 ```
