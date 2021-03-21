@@ -4,7 +4,7 @@ import NavBar from '../../components/NavBar/index'
 
 function HomeScreen() {
   return (
-    <div>
+    <div className='homeScreen'>
       <NavBar />
     </div>
   )
