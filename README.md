@@ -12,6 +12,7 @@ This project is created with:
 * React.Js
 * Node.Js
 * Redux
+* React Router
 * Firebase
 * Stripe (Firebase extension)
 
