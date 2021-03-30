@@ -14,7 +14,7 @@ This project is created with:
 * Redux
 * React Router
 * Firebase
-* Stripe (Firebase extension)
+* Stripe (Firebase extension to enable payment functionality)
 
 ## Setup
 To run this project and see all functionalities, install it locally using npm:
